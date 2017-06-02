@@ -69,7 +69,7 @@
       }
     }
   },
-  "author": "Nobody <az8321550@gmail.com> (https://bodyno.com)",
+  "author": "sebastiancastillopoblete",
   "license": "WTFPL",
   "dependencies": {
     "babel-core": "^6.17.0",
